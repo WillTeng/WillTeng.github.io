@@ -10,8 +10,6 @@ type: page
 {:toc}
 
 ## 关于我
-
-<iframe src="https://githubbadge.appspot.com/WillTeng?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 做过一年GIS，做过一年点云算法，现在在做android
 
 * 2019.8 入职武汉光庭信息技术股份有限公司
